@@ -1,6 +1,5 @@
-2020/04/26-14:41:24.249 3068 Reusing MANIFEST E:\tool-custom\Tool-Custom\Tool-Custom\bin\Debug\profile\Default\Session Storage/MANIFEST-000001
-2020/04/26-14:41:24.249 3068 Recovering log #3
-2020/04/26-14:41:24.250 3068 Reusing old log E:\tool-custom\Tool-Custom\Tool-Custom\bin\Debug\profile\Default\Session Storage/000003.log 
-2020/04/26-14:42:28.742 29ec Level-0 table #5: started
-2020/04/26-14:42:28.765 29ec Level-0 table #5: 20019 bytes OK
-2020/04/26-14:42:28.799 29ec Delete type=0 #3
+2020/05/16-16:59:35.863 ad0 Reusing MANIFEST E:\tool-custom\Tool-Custom\Tool-Custom\bin\Debug\profile\Default\Session Storage/MANIFEST-000001
+2020/05/16-16:59:35.863 ad0 Recovering log #23
+2020/05/16-16:59:35.864 ad0 Level-0 table #26: started
+2020/05/16-16:59:35.897 ad0 Level-0 table #26: 21472 bytes OK
+2020/05/16-16:59:35.913 ad0 Delete type=0 #23

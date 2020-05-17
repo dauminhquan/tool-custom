@@ -1,15 +1,15 @@
-2020/04/26-14:42:17.573 4054 Reusing MANIFEST E:\tool-custom\Tool-Custom\Tool-Custom\bin\Debug\profile\Default\IndexedDB\https_sellercentral.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/04/26-14:42:17.573 4054 Recovering log #103
-2020/04/26-14:42:17.573 4054 Reusing old log E:\tool-custom\Tool-Custom\Tool-Custom\bin\Debug\profile\Default\IndexedDB\https_sellercentral.amazon.com_0.indexeddb.leveldb/000103.log 
-2020/04/26-14:42:21.139 56d8 Level-0 table #108: started
-2020/04/26-14:42:21.298 56d8 Level-0 table #108: 533 bytes OK
-2020/04/26-14:42:21.315 56d8 Delete type=0 #103
-2020/04/26-14:42:21.315 56d8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/04/26-14:42:21.315 56d8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x03\x00 NlZ\x1bwB\x00\x01\x14\x00E\x00H\x00R\x00Y\x00Z\x00K\x00W\x002\x009\x003\x00F\x002\x00S\x00S\x00Y\x00E\x00D\x007\x00F\x003' @ 695 : 1
-2020/04/26-14:42:21.316 56d8 Compacting 1@1 + 1@2 files
-2020/04/26-14:42:21.331 56d8 Generated table #109@1: 30 keys, 886 bytes
-2020/04/26-14:42:21.331 56d8 Compacted 1@1 + 1@2 files => 886 bytes
-2020/04/26-14:42:21.348 56d8 compacted to: files[ 0 0 1 0 0 0 0 ]
-2020/04/26-14:42:21.348 56d8 Delete type=2 #105
-2020/04/26-14:42:21.348 56d8 Delete type=2 #108
-2020/04/26-14:42:21.349 56d8 Manual compaction at level-1 from '\x00\x01\x01\x1f\x03\x00 NlZ\x1bwB\x00\x01\x14\x00E\x00H\x00R\x00Y\x00Z\x00K\x00W\x002\x009\x003\x00F\x002\x00S\x00S\x00Y\x00E\x00D\x007\x00F\x003' @ 695 : 1 .. (end); will stop at (end)
+2020/05/16-17:01:00.322 3770 Reusing MANIFEST E:\tool-custom\Tool-Custom\Tool-Custom\bin\Debug\profile\Default\IndexedDB\https_sellercentral.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/16-17:01:00.323 3770 Recovering log #615
+2020/05/16-17:01:00.323 3770 Reusing old log E:\tool-custom\Tool-Custom\Tool-Custom\bin\Debug\profile\Default\IndexedDB\https_sellercentral.amazon.com_0.indexeddb.leveldb/000615.log 
+2020/05/16-17:01:03.568 2670 Level-0 table #620: started
+2020/05/16-17:01:03.694 2670 Level-0 table #620: 538 bytes OK
+2020/05/16-17:01:03.711 2670 Delete type=0 #615
+2020/05/16-17:01:03.712 2670 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/16-17:01:03.712 2670 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x03\x00 8O\xd2!wB\x00\x01\x14\x007\x000\x00B\x00E\x00D\x003\x00J\x002\x00W\x004\x00S\x00H\x00R\x00F\x006\x006\x00V\x00J\x006\x00D' @ 4076 : 1
+2020/05/16-17:01:03.713 2670 Compacting 1@1 + 1@2 files
+2020/05/16-17:01:03.727 2670 Generated table #621@1: 111 keys, 4322 bytes
+2020/05/16-17:01:03.727 2670 Compacted 1@1 + 1@2 files => 4322 bytes
+2020/05/16-17:01:03.744 2670 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/16-17:01:03.744 2670 Delete type=2 #617
+2020/05/16-17:01:03.744 2670 Delete type=2 #620
+2020/05/16-17:01:03.745 2670 Manual compaction at level-1 from '\x00\x01\x01\x1f\x03\x00 8O\xd2!wB\x00\x01\x14\x007\x000\x00B\x00E\x00D\x003\x00J\x002\x00W\x004\x00S\x00H\x00R\x00F\x006\x006\x00V\x00J\x006\x00D' @ 4076 : 1 .. (end); will stop at (end)
